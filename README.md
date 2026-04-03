@@ -1,22 +1,40 @@
-## Hi there! 👋 I'm Teja Vaka  
+# Teja Gopal Reddy Vaka
 
-🎯 **AI Enthusiast | Data Engineer | Future Generative AI Innovator**  
-I’m passionate about leveraging **data engineering** and **AI technologies** to build cutting-edge solutions, especially in the realm of **Large Language Models (LLMs)** and **Generative AI**. With a solid foundation in scalable data pipelines and hands-on experience fine-tuning and deploying advanced models, I aim to solve real-world challenges—whether it’s enhancing business efficiency through AI automation or driving innovation in personalized customer experiences. I’m committed to pushing the boundaries of AI applications to create impactful and scalable solutions.
+AI Engineer building LLM systems in production — fintech and healthcare.
 
+Currently at **Empower Financial Services**, where I ship models that serve 10,000+ daily users.
 
-## 🌟 **What I’m Currently Working On**  
-- **Fine-Tuning Large Language Models (LLMs):** Exploring ways to adapt pre-trained models for domain-specific applications, including **Retrieval-Augmented Generation (RAG)**.  
-- **AI Automation Services:** Building voice bots, chatbots, and custom AI agents for businesses to optimize their operations.  
-- **Advanced Data Engineering Pipelines:** Designing end-to-end workflows to manage and process massive datasets efficiently.
+---
 
+## What I work on
 
-## 📈 **Future Goals**  
-- **Generative AI Expertise:** Master core principles and build solutions from scratch, avoiding reliance on no-code tools.  
-- **Research & Innovation:** Publish impactful research papers on transformer models and LLM optimizations.  
-- **Start-Up Vision:** Develop scalable AI automation products that help businesses harness the power of AI effectively.  
+- **LLM fine-tuning** — LoRA, RLHF, BERT, GPT-4 on domain-specific datasets
+- **RAG pipelines** — Pinecone, FAISS, LangChain, Sentence Transformers
+- **Inference optimization** — ONNX quantization (cut GPU costs 33%, scaled to 5x load)
+- **MLOps** — Airflow, SageMaker, drift detection, automated retraining loops
+- **Data engineering** — Spark, Kafka, Snowflake, BigQuery, 5TB+ migrations
 
+---
 
-## 📫 **Let’s Connect!**  
-- **[LinkedIn](https://www.linkedin.com/in/tejagopalreddyvaka/)**   
-- **[Email Me](vakateja24@gmail.com)**  
+## Stack
 
+`Python` `PyTorch` `HuggingFace` `LangChain` `FastAPI`  
+`AWS` `GCP` `Docker` `Airflow` `SageMaker`  
+`PostgreSQL` `Snowflake` `Redshift` `MongoDB`
+
+---
+
+## Selected work
+
+| Project | What it does |
+|---|---|
+| [MCP-Powered AI Agent Platform](https://github.com/Nites-24) | Multi-agent task routing via Model Context Protocol — 99.2% uptime at 50 QPS |
+| [Image Super-Resolution](https://github.com/Nites-24) | SRCNN vs EDSR on DIV2K, 30% resolution gain, deployed on AWS Lambda |
+| [GPT Fine-tuning with RLHF](https://github.com/Nites-24) | End-to-end QA pipeline on SQuAD + TriviaQA, 15% accuracy improvement |
+
+---
+
+## Connect
+
+- [LinkedIn](https://linkedin.com/in/tejagopalreddyvaka)
+- Email: vakateja24@gmail.com
