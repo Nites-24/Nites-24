@@ -2,7 +2,7 @@
 
 AI Engineer building LLM systems in production — fintech and healthcare.
 
-Currently at **Empower Financial Services**, where I ship models that serve 10,000+ daily users.
+Currently building and exploring LLM systems — RAG, fine-tuning, and inference optimization.
 
 ---
 
